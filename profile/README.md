@@ -1,6 +1,8 @@
 # Clariteia
 
-![clariteia logo](/images/logo-clariteia.png)
+<p align="center">
+  <img src="/images/logo-clariteia.png" alt="Clariteia Logo">
+</p>
 
 ### The `minos` framework
 * Minos is a framework which helps you create reactive microservices in Python.
