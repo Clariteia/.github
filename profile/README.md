@@ -1,3 +1,5 @@
+# Clariteia
+
 ![clariteia logo](/images/logo-clariteia.png)
 
 ### The `minos` framework
